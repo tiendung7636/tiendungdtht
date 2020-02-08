@@ -29,7 +29,7 @@ $(function()
 		artist: "Bùi Anh Tuấn",
 		name: "Lặng Yên",
 		url: "Musics/langyen.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		picture: "https://drive.google.com/open?id=1j09iLHwUGKF0Fk3_OkvTgBhZDfgbxafc"
 	},{
 		artist: "Tuấn Hưng",
 		name: "Anh nhớ em",
@@ -72,9 +72,9 @@ $(function()
 		picture: "Background/tiendung1.jpg"
         },{
 	    artist: "Tuấn Hưng",
-		name: "Anh Nhớ Em",
-		url: "Musics/2.mp3",
-		picture: "Background/tiendung2.jpg"
+		name: "vẫn nhớ",
+		url: "Musics/1.mp3",
+		picture: "Background/tiendung1.jpg"
         },{
 	    artist: "Phan Mạnh Quỳnh",
 		name: "Bước Qua Thế Giới",
@@ -403,6 +403,7 @@ $(function()
 
             albumName.text(currAlbum);
             trackName.text(currTrackName);
+			albumArt.find('img').attr('src', currArtwork);
             $('#album-art img').prop('src', bgArtworkUrl);
         }
         else
@@ -411,7 +412,7 @@ $(function()
                 --currIndex;
             else
                 ++currIndex;
-                albumArt. find ('IMG'). attr ('SRC',currArtwork);
+                albumArt.find('img').attr('src', currArtwork);
         }
     }
 
