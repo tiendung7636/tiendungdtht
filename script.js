@@ -24,182 +24,182 @@ $(function()
 		artist: "Dig Didzay",
 		name: "Nếu Anh Đi (Cover)",
 		url: "Musics/NeuAnhDi.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		picture: "Background/1.jpg"
 	},{
 		artist: "Bùi Anh Tuấn",
 		name: "Lặng Yên",
 		url: "Musics/langyen.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		picture: "Background/2.jpg"
 	},{
 		artist: "Tuấn Hưng",
 		name: "Anh nhớ em",
 		url: "Musics/anhnhoem.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		picture: "Background/3.jpg"
 	},{
 		artist: "Bùi Anh Tuấn",
 		name: "Forever",
 		url: "Musics/forever.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		picture: "Background/4.jpg"
 	},{
 	    artist: "Bùi Anh Tuấn",
 		name: "Hẹn Một Mai",
 		url: "Musics/hen1mai.mp3",
-		picture: "Background/tiendung4.jpg"
+		picture: "Background/5.jpg"
 	},{
 	    artist: "Gia Huy",
 		name: "Đừng Khóc Nữa Mà",
 		url: "Musics/dungkhocnuama.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		picture: "Background/6.jpg"
 	},{
 	    artist: "Tuấn Hưng",
 		name: "Vẫn Nhớ",
 		url: "Musics/1.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		picture: "Background/7.jpg"
 	},{
 	    artist: "Bùi Anh Tuấn ",
 		name: "Quên",
 		url: "Musics/quen.mp3",
-		picture: "Background/tiendung3.jpg"
+		picture: "Background/8.jpg"
 	},{
 	    artist: "Việt",
 		name: "Tình Đẹp Đến Mấy Cũng Tàn",
 		url: "Musics/tinhdepdenmaycungtan.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		picture: "Background/9.jpg"
 	},{
 	    artist: "Nhật Phong",
 		name: "Yêu Một Người Tổn Thương",
 		url: "Musics/yeumotnguoitonthuong.mp3",
-		picture: "Background/tiendung1.jpg"
+		picture: "Background/1.jpg"
         },{
 	    artist: "Tuấn Hưng",
-		name: "Anh Nhớ Em",
-		url: "Musics/2.mp3",
-		picture: "Background/tiendung2.jpg"
+		name: "vẫn nhớ",
+		url: "Musics/1.mp3",
+		picture: "Background/2.jpg"
         },{
 	    artist: "Phan Mạnh Quỳnh",
 		name: "Bước Qua Thế Giới",
 		url: "Musics/3.mp3",
-		picture: "Background/tiendung4.jpg"
+		picture: "Background/4.jpg"
         },{
 	    artist: "Tuấn Hưng",
 		name: "Chia Xa",
 		url: "Musics/4.mp3",
-		picture: "Background/tiendung3.jpg"
+		picture: "Background/3.jpg"
         },{
 	    artist: "Phan Mạnh Quỳnh",
 		name: "Có Chàng Trai Viết Lên Cây",
 		url: "Musics/5.mp3",
-		picture: "Background/tiendung4.jpg"
+		picture: "Background/6.jpg"
         },{
 	    artist: "Mr Siro",
 		name: "Cô Đơn Không Muốn Về Nhà",
 		url: "Musics/6.mp3",
-		picture: "Background/tiendung5.jpg"
+		picture: "Background/5.jpg"
         },{
 	    artist: "Tuấn Hưng",
 		name: "Độc Thoại",
 		url: "Musics/7.mp3",
-		picture: "Background/tiendung1.jpg"
+		picture: "Background/7.jpg"
         },{
 	    artist: "Thanh Hưng",
 		name: "Đúng Người Đúng Thời Điểm",
 		url: "Musics/8.mp3",
-		picture: "Background/tiendung2.jpg"
+		picture: "Background/8.jpg"
         },{
 	    artist: "Alan Walker",
 		name: "Faded",
 		url: "Musics/9.mp3",
-		picture: "Background/tiendung3.jpg"
+		picture: "Background/9.jpg"
         },{
 	    artist: "Jack",
 		name: "Hoa Vô Sắc",
 		url: "Musics/10.mp3",
-		picture: "Background/tiendung5.jpg"
+		picture: "Background/1.jpg"
         },{
 	    artist: "Phan Mạnh Quỳnh",
 		name: "Hồi Ức (live)",
 		url: "Musics/11.mp3",
-		picture: "Background/tiendung4.jpg"
+		picture: "Background/4.jpg"
         },{
 	    artist: "Phan Mạnh Quỳnh",
 		name: "Làm Sao Giữ",
 		url: "Musics/12.mp3",
-		picture: "Background/tiendung1.jpg"
+		picture: "Background/1.jpg"
         },{
 	    artist: "Phan Mạnh Quỳnh",
 		name: "Người Khác(piano)",
 		url: "Musics/14.mp3",
-		picture: "Background/tiendung2.jpg"
+		picture: "Background/2.jpg"
         },{
 	    artist: "Phan Mạnh Quỳnh",
 		name: "Nước Ngoài",
 		url: "Musics/15.mp3",
-		picture: "Background/tiendung3.jpg"
+		picture: "Background/3.jpg"
         },{
 	    artist: "Trịnh Thăng Bình",
 		name: "Tâm Sự Tuổi 30",
 		url: "Musics/16.mp3",
-		picture: "Background/tiendung4.jpg"
+		picture: "Background/4.jpg"
         },{
 	    artist: "Tuấn Hưng",
 		name: "Tan",
 		url: "Musics/17.mp3",
-		picture: "Background/tiendung5.jpg"
+		picture: "Background/5.jpg"
         },{
 	    artist: "Bùi Anh Tuấn ",
 		name: "Thuận Theo Ý Trời",
 		url: "Musics/18.mp3",
-		picture: "Background/tiendung1.jpg"
+		picture: "Background/1.jpg"
         },{
 	    artist: "Tuấn Hưng",
 		name: "Tìm Lại Bầu Trời",
 		url: "Musics/19.mp3",
-		picture: "Background/tiendung2.jpg"
+		picture: "Background/2.jpg"
         },{
 	    artist: "Phan Mạnh Quỳnh",
 		name: "Tri Kỷ",
 		url: "Musics/20.mp3",
-		picture: "Background/tiendung3.jpg"
+		picture: "Background/3.jpg"
         },{
 	    artist: "Phan Mạnh Quỳnh",
 		name: "Tự Dưng",
 		url: "Musics/21.mp3",
-		picture: "Background/tiendung3.jpg"
+		picture: "Background/4.jpg"
         },{
 	    artist: "Phan Duy Anh",
 		name: "Từng Yêu",
 		url: "Musics/22.mp3",
-		picture: "Background/tiendung1.jpg"
+		picture: "Background/1.jpg"
         },{
 	    artist: "Nguyễn Trần Trung Quân ",
 		name: "Tự Tâm",
 		url: "Musics/23.mp3",
-		picture: "Background/tiendung1.jpg"
+		picture: "Background/5.jpg"
         },{
 	    artist: "Thanh Hưng",
 		name: "Yêu Nhiều Ghen Nhiều",
 		url: "Musics/25.mp3",
-		picture: "Background/tiendung2.jpg"
+		picture: "Background/6.jpg"
         },{
 	    artist: "Phan Mạnh Quỳnh",
 		name: "Vợ Người Ta",
 		url: "Musics/26.mp3",
-		picture: "Background/tiendung3.jpg"
+		picture: "Background/9.jpg"
         },{
 	    artist: "Trịnh Thăng Bình ",
 		name: "Vỡ Tan",
 		url: "Musics/27.mp3",
-		picture: "Background/tiendung3.jpg"
+		picture: "Background/8.jpg"
         },{
 	    artist: "Thanh Hưng",
 		name: "Vết Nhơ",
 		url: "Musics/28.mp3",
-		picture: "Background/tiendung4.jpg"
+		picture: "Background/6.jpg"
         },{
 	    artist: "Chung Thành Duy",
 		name: "Duyên Trời Lấy 2",
 		url: "Musics/24.mp3",
-		picture: "Background/tiendung1.jpg"
+		picture: "Background/5.jpg"
 	}];
 	
 	function shuffle(a) {
@@ -403,6 +403,7 @@ $(function()
 
             albumName.text(currAlbum);
             trackName.text(currTrackName);
+			albumArt.find('img').attr('src', currArtwork);
             $('#album-art img').prop('src', bgArtworkUrl);
         }
         else
@@ -411,7 +412,7 @@ $(function()
                 --currIndex;
             else
                 ++currIndex;
-                albumArt. find ('IMG'). attr ('SRC',currArtwork);
+                albumArt.find('img').attr('src', currArtwork);
         }
     }
 
