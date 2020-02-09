@@ -44,7 +44,7 @@ body
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: #FBF6FB;
+    background-color: #ffffff42;
     opacity: 0.51;
     z-index: 2;
 }
@@ -63,7 +63,7 @@ body
     right: 15px;
     left: 15px;
     padding: 13px 22px 10px 184px;
-    background-color: #F891CB;
+    background-color: #b52b3e;
     border-radius: 15px 15px 0 0;
     -webkit-transition: 0.3s ease top;
     transition: 0.3s ease top;
@@ -80,14 +80,14 @@ body
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
-    color: #54576f;
+    color: #e5bdca;
     font-size: 17px;
     font-weight: bold;
 }
 
 #track-name
 {
-    color: #acaebd;
+    color: #287261;
     font-size: 13px;
     margin: 2px 0 13px 0;
 }
@@ -113,7 +113,7 @@ body
 {
     color: transparent;
     font-size: 11px;
-    background-color: #F28FAA;
+    background-color: #ffe8ee;
     border-radius: 10px;
     -webkit-transition: 0.3s ease all;
     transition: 0.3s ease all;
@@ -121,7 +121,7 @@ body
 
 #track-time.active #current-time, #track-time.active #track-length
 {
-    color: #B2123D;
+    color: #f86d92;
     background-color: transparent;
 }
 
@@ -162,7 +162,7 @@ body
 
 #ins-time, #s-hover
 {
-    background-color: #1C3A28;
+    background-color: #3b3d50;
 }
 
 #seek-bar
@@ -183,8 +183,8 @@ body
 {
     position: relative;
     height: 100%;
-    background-color: #fff;
-    box-shadow: 0 30px 80px #656565;
+    background-color: #d01e4f;
+    box-shadow: 0 30px 80px #884ba7;
     border-radius: 15px;
     z-index: 2;
 }
@@ -328,7 +328,7 @@ body
     width: 26px;
     height: 26px;
     padding: 25px;
-    background-color: #fff;
+    background-color: #bc587800;
     border-radius: 6px;
     cursor: pointer;
 }
@@ -357,61 +357,3 @@ body
 {
     color: #fff;
 }
-@import url(https://fonts.googleapis.com/css?family=Raleway:500);
-
-$primary-color: #1F1F1F;;
-
-body {
-	background: #2a2a2a;
-	font-family: Raleway;
-}
-	
-h1 {
-	text-align: center;
-	font-size: 34px;
-	padding-top: 40px;
-	color: #FFF;
-}
-	
-p {
-	color: #999;
-	text-align: center;
-	font-size: 15px;
-	
-	a {
-		color: $primary-color;
-		text-decoration: none;
-		padding: 1px 2px 0px 2px;
-		border-bottom: 2px solid rgba(0, 0, 0, .0);
-		transition: all .1s ease;
-		
-		&:hover {
-			padding: 1px 2px 1px 2px;
-			border-bottom: 2px solid #555;
-		}
-	}
-}
-
-#player {
-	width: 350px;
-	height: 50px;
-	position: relative;
-	margin: 0 auto;
-	top: 80px;
-	
-	i {
-		position: absolute;
-		margin-top: -6px;
-		color: #666;
-	}
-	
-	i.fa-volume-down {
-		margin-left: -8px;
-	}
-	
-	i.fa-volume-up {
-		margin-right: -8px;
-		right: 0;
-	}
-}
-
