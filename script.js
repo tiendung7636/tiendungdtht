@@ -200,6 +200,141 @@ $(function()
 		name: "Duyên Trời Lấy 2",
 		url: "Musics/24.mp3",
 		picture: "Background/5.jpg"
+		},{
+	    artist: "Trịnh Dình Quang",
+		name: "Phụ Tình",
+		url: "Musics/29.mp3",
+		picture: "Background/2.jpg"
+        },{
+	    artist: "Trịnh Dình Quang",
+		name: "Buồn Lắm Em Ơi",
+		url: "Musics/30.mp3",
+		picture: "Background/4.jpg"
+        },{
+	    artist: "Trịnh Dình Quang",
+		name: "Em Mỉm Cười Trông Thật Đẹp",
+		url: "Musics/31.mp3",
+		picture: "Background/3.jpg"
+        },{
+	    artist: "Trịnh Dình Quang",
+		name: "Bố Trẻ Con",
+		url: "Musics/32.mp3",
+		picture: "Background/6.jpg"
+        },{
+	    artist: "Trịnh Dình Quang",
+		name: "Gửi Tình Yêu Nhỏ",
+		url: "Musics/33.mp3",
+		picture: "Background/5.jpg"
+        },{
+	    artist: "Trịnh Dình Quang",
+		name: "Tìm Em",
+		url: "Musics/34.mp3",
+		picture: "Background/7.jpg"
+        },{
+	    artist: "Trịnh Dình Quang",
+		name: "Đồng Vân",
+		url: "Musics/35.mp3",
+		picture: "Background/8.jpg"
+        },{
+	    artist: "Vũ Duy Khánh",
+		name: "Đừng Buông Tay Nhau",
+		url: "Musics/36.mp3",
+		picture: "Background/9.jpg"
+        },{
+	    artist: "Vũ Duy Khánh",
+		name: "Vợ Tuyệt Vời Nhất",
+		url: "Musics/37.mp3",
+		picture: "Background/1.jpg"
+        },{
+	    artist: "Vũ Duy Khánh",
+		name: "Chúc Vợ Ngủ Ngon",
+		url: "Musics/38.mp3",
+		picture: "Background/4.jpg"
+        },{
+	    artist: "Vũ Duy Khánh",
+		name: "Đau",
+		url: "Musics/39.mp3",
+		picture: "Background/1.jpg"
+        },{
+	    artist: "Tùng Dương",
+		name: "Quê Nhà",
+		url: "Musics/40.mp3",
+		picture: "Background/2.jpg"
+        },{
+	    artist: "Tùng Dương",
+		name: "Con Cò",
+		url: "Musics/41.mp3",
+		picture: "Background/3.jpg"
+        },{
+	    artist: "Tùng Dương",
+		name: "Mẹ Tôi",
+		url: "Musics/42.mp3",
+		picture: "Background/4.jpg"
+        },{
+	    artist: "Hà Anh Tuấn",
+		name: "Mashup: Chỉ Còn Những Mùa Nhớ ",
+		url: "Musics/43.mp3",
+		picture: "Background/5.jpg"
+        },{
+	    artist: "Hà Anh Tuấn ",
+		name: "Đợi Em Đến Hoa Cũng Tàn ",
+		url: "Musics/44.mp3",
+		picture: "Background/1.jpg"
+        },{
+	    artist: "Hà Anh Tuấn",
+		name: "Qua Cơn Mê",
+		url: "Musics/45.mp3",
+		picture: "Background/2.jpg"
+        },{
+	    artist: "Hà Anh Tuấn",
+		name: "Tháng Tư Là Lời Nói Dối Của Em",
+		url: "Musics/46.mp3",
+		picture: "Background/3.jpg"
+        },{
+	    artist: "Hà Anh Tuấn",
+		name: "TVề Đi Em",
+		url: "Musics/47.mp3",
+		picture: "Background/4.jpg"
+        },{
+	    artist: "Trung Quân Idol",
+		name: "Chưa Bao Giờ",
+		url: "Musics/48.mp3",
+		picture: "Background/1.jpg"
+        },{
+	    artist: "Trung Quân Idol",
+		name: "Trót Yêu",
+		url: "Musics/49.mp3",
+		picture: "Background/5.jpg"
+        },{
+	    artist: "Trung Quân Idol",
+		name: "Dấu Mưa",
+		url: "Musics/50.mp3",
+		picture: "Background/6.jpg"
+        },{
+	    artist: "Phan Mạnh Quỳnh",
+		name: "Từ Đó(Mắt Biếc OST)",
+		url: "Musics/51.mp3",
+		picture: "Background/9.jpg"
+        },{
+	    artist: "Phan Mạnh Quỳnh",
+		name: "Ngày Chưa Giông Bão",
+		url: "Musics/53.mp3",
+		picture: "Background/8.jpg"
+        },{
+	    artist: "X2X",
+		name: "Thiệp Hồng Người Dưng",
+		url: "Musics/54.mp3",
+		picture: "Background/6.jpg"
+        },{
+	    artist: "Đạt G, Masew, Bray",
+		name: "Xin",
+		url: "Musics/55.mp3",
+		picture: "Background/5.jpg"
+		},{
+	    artist: "Bảo Jen, Kn",
+		name: "Hẹn Ước",
+		url: "Musics/52.mp3",
+		picture: "Background/9.jpg"
 	}];
 	
 	function shuffle(a) {
