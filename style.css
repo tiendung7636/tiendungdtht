@@ -44,7 +44,7 @@ body
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: #fff;
+    background-color: #6374F4;
     opacity: 0.51;
     z-index: 2;
 }
@@ -113,7 +113,7 @@ body
 {
     color: transparent;
     font-size: 11px;
-    background-color: #ffe8ee;
+    background-color: #F28FAA;
     border-radius: 10px;
     -webkit-transition: 0.3s ease all;
     transition: 0.3s ease all;
@@ -121,7 +121,7 @@ body
 
 #track-time.active #current-time, #track-time.active #track-length
 {
-    color: #f86d92;
+    color: #B2123D;
     background-color: transparent;
 }
 
@@ -162,7 +162,7 @@ body
 
 #ins-time, #s-hover
 {
-    background-color: #3b3d50;
+    background-color: #1C3A28;
 }
 
 #seek-bar
@@ -359,7 +359,7 @@ body
 }
 @import url(https://fonts.googleapis.com/css?family=Raleway:500);
 
-$primary-color: #2ecc71;
+$primary-color: #1F1F1F;;
 
 body {
 	background: #2a2a2a;
@@ -441,7 +441,7 @@ p {
   	background: #FFF;
   	position: absolute;
   	margin-left: -8px;
-  	margin-top: -8px;
+  	margin-top: 20%;
   	cursor: pointer;
   	outline: none;
 	}
