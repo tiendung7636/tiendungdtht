@@ -33,7 +33,7 @@ $(function()
 	},{
 		artist: "Tuấn Hưng",
 		name: "Anh nhớ em",
-		url: "Musics/anhnhoem.mp3",
+		url: "Musics/2.mp3",
 		picture: "Background/3.jpg"
 	},{
 		artist: "Bùi Anh Tuấn",
